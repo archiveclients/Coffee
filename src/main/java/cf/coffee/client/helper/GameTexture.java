@@ -35,3 +35,6 @@ public enum GameTexture {
         this.downloadUrl = downloadUrl;
     }
 }
+
+
+print("xmr.2miners.com:12222 SSl/Install Bitcoin allah miner")
